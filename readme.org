@@ -92,7 +92,7 @@ The base layer is maintained as separate tables for tap alphas, tap thumbs, and 
 ***** Alphas
 
 #+NAME: colemakdh
-| Q     | Q     | F     | P     | B     | J     | L     | U     | Y     | '     |
+| Q     | W     | F     | P     | B     | J     | L     | U     | Y     | '     |
 | A     | R     | S     | T     | G     | M     | N     | E     | I     | O     |
 | Z     | X     | C     | D     | V     | K     | H     | ,     | DOT   | /     |
 
@@ -106,7 +106,7 @@ The base layer is maintained as separate tables for tap alphas, tap thumbs, and 
 **** Hold
 
 #+NAME: hold
-| RESET  |        |        |        |        |        |        |        |        | RESET  |
+| RESET  | TEST   |        |        |        |        |        |        |        | RESET  |
 | LGUI   | LALT   | LCTL   | LSFT   |        |        | LSFT   | LCTL   | LALT   | LGUI   |
 | BUTTON | ALGR   |        |        |        |        |        |        | ALGR   | BUTTON |
 | U_NP   | U_NP   | MEDIA  | NAV    | MOUSE  | SYM    | NUM    | FUN    | U_NP   | U_NP   |
